@@ -15,7 +15,7 @@ coordination of mentors needed to execute projects, ranging from recruitment to 
 
 To get it up and running on your local machine, follow the steps below:
 
-*   Clone the repo with the command \`git clone https://github.com/ALCOpenSource/Mentor-Management-System-Team-4.git\`
+*   Clone the repo with the command \`git clone https://github.com/ALCOpenSource/Mentor-Management-System-Team-4.git`
 
 *   Indicate your interest to work on any issue. "eg. I want to work on this issue or I am interested in this issue"
 
