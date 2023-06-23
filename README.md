@@ -10,7 +10,7 @@ coordination of mentors needed to execute projects, ranging from recruitment to 
 *   Frontend : ReactJS, Material UI, Redux Toolkit, Formik, Yup
 *   Backend: NodeJS Express, ORM(Sequelize), Security(JWT), Validation(Joi)
 *   Database:  Database(PgSQL)
-*   Deployment env: Fontend (AWS Amplify) , Backend : Render.com
+*   Deployment env: Frontend (AWS Amplify) , Backend : Render.com
 ## How to contributing to this project
 
 To get it up and running on your local machine, follow the steps below:
