@@ -60,7 +60,6 @@ To get it up and running on your local machine, follow the steps below:
 The design can be found [here](https://www.figma.com/proto/Uyj0o0nX8f5QdXfGzO3ZCZ/MMS-Project-Official?page-id=121%3A20&node-id=2919-69751&starting-point-node-id=2527%3A72409&show-proto-sidebar=1)
 Find the Prototype [here](https://www.figma.com/proto/Uyj0o0nX8f5QdXfGzO3ZCZ/MMS-Project-Official?page-id=121%3A20&node-id=2919-69751&starting-point-node-id=2527%3A72409&show-proto-sidebar=1)
 
-Work on your Team assigned task, e.g. Team 1, Team 2 etc.
 
 NOTE: Strictly adhere to the style guide on the design, buttons, texts etc.
 
